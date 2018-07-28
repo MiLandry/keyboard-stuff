@@ -37,7 +37,10 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "1"
+                                        "key_code": "7",
+                                        "modifiers": [
+                                            "left_shift"
+                                        ]
                                     }
                                 ],
                                 "type": "basic"
@@ -936,7 +939,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "l",
+                                        "key_code": "comma",
                                         "modifiers": [
                                             "left_shift"
                                         ]
