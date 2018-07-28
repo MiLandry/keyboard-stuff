@@ -199,7 +199,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "y"
+                                        "key_code": "k"
                                     }
                                 ],
                                 "type": "basic"
@@ -210,7 +210,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "f"
+                                        "key_code": ";"
                                     }
                                 ],
                                 "type": "basic"
@@ -221,7 +221,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "g"
+                                        "key_code": "y"
                                     }
                                 ],
                                 "type": "basic"
@@ -232,7 +232,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "c"
+                                        "key_code": "l"
                                     }
                                 ],
                                 "type": "basic"
@@ -243,7 +243,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "r"
+                                        "key_code": "d"
                                     }
                                 ],
                                 "type": "basic"
@@ -254,7 +254,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "l"
+                                        "key_code": ","
                                     }
                                 ],
                                 "type": "basic"
@@ -298,7 +298,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "a"
+                                        "key_code": "s"
                                     }
                                 ],
                                 "type": "basic"
@@ -309,7 +309,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "o"
+                                        "key_code": "n"
                                     }
                                 ],
                                 "type": "basic"
@@ -320,7 +320,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "e"
+                                        "key_code": "t"
                                     }
                                 ],
                                 "type": "basic"
@@ -331,7 +331,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "u"
+                                        "key_code": "h"
                                     }
                                 ],
                                 "type": "basic"
@@ -342,7 +342,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "i"
+                                        "key_code": "f"
                                     }
                                 ],
                                 "type": "basic"
@@ -364,7 +364,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "h"
+                                        "key_code": "i"
                                     }
                                 ],
                                 "type": "basic"
@@ -375,7 +375,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "t"
+                                        "key_code": "e"
                                     }
                                 ],
                                 "type": "basic"
@@ -386,7 +386,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "n"
+                                        "key_code": "o"
                                     }
                                 ],
                                 "type": "basic"
@@ -419,7 +419,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "semicolon"
+                                        "key_code": "j"
                                     }
                                 ],
                                 "type": "basic"
@@ -430,7 +430,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "q"
+                                        "key_code": "w"
                                     }
                                 ],
                                 "type": "basic"
@@ -441,7 +441,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "j"
+                                        "key_code": "m"
                                     }
                                 ],
                                 "type": "basic"
@@ -452,7 +452,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "k"
+                                        "key_code": "b"
                                     }
                                 ],
                                 "type": "basic"
@@ -474,7 +474,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "b"
+                                        "key_code": "v"
                                     }
                                 ],
                                 "type": "basic"
@@ -485,7 +485,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "m"
+                                        "key_code": "u"
                                     }
                                 ],
                                 "type": "basic"
@@ -496,7 +496,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "w"
+                                        "key_code": "q"
                                     }
                                 ],
                                 "type": "basic"
@@ -507,7 +507,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "v"
+                                        "key_code": "period"
                                     }
                                 ],
                                 "type": "basic"
@@ -518,7 +518,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "z"
+                                        "key_code": "slash"
                                     }
                                 ],
                                 "type": "basic"
