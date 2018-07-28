@@ -567,6 +567,10 @@
                                 ],
                                 "type": "basic"
                             },
+
+
+
+
                             {
                                 "from": {
                                     "key_code": "grave_accent_and_tilde",
@@ -1438,7 +1442,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "grave_accent_and_tilde",
+                                        "key_code": "5",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1457,10 +1461,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "1",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
+                                        "key_code": "1"
                                     }
                                 ],
                                 "type": "basic"
@@ -1468,6 +1469,150 @@
                             {
                                 "from": {
                                     "key_code": "2",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "2"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "3",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "3"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "4",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "4"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "5",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "5"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "6",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "6"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "7",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "7"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "8",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "8"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "9",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "9"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "0",
+                                    "modifiers": {
+                                        "mandatory": [
+                                            "right_shift"
+                                        ]
+                                    }
+                                },
+                                "to": [
+                                    {
+                                        "key_code": "0"
+                                    }
+                                ],
+                                "type": "basic"
+                            },
+                            {
+                                "from": {
+                                    "key_code": "hyphen",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_shift"
@@ -1486,158 +1631,6 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "4",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "4",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
-                                    "key_code": "5",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "5",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
-                                    "key_code": "6",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "6",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
-                                    "key_code": "7",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "7",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
-                                    "key_code": "8",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "8",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
-                                    "key_code": "9",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "9",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
-                                    "key_code": "0",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "0",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
-                                    "key_code": "hyphen",
-                                    "modifiers": {
-                                        "mandatory": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                },
-                                "to": [
-                                    {
-                                        "key_code": "open_bracket",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
-                                    }
-                                ],
-                                "type": "basic"
-                            },
-                            {
-                                "from": {
                                     "key_code": "equal_sign",
                                     "modifiers": {
                                         "mandatory": [
@@ -1647,10 +1640,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "close_bracket",
-                                        "modifiers": [
-                                            "right_shift"
-                                        ]
+                                        "key_code": "grave_accent_and_tilde"
                                     }
                                 ],
                                 "type": "basic"
@@ -1666,7 +1656,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "quote",
+                                        "key_code": "p",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1704,7 +1694,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "period",
+                                        "key_code": "c",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1723,7 +1713,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "p",
+                                        "key_code": "g",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1742,7 +1732,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "y",
+                                        "key_code": "k",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1761,7 +1751,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "f",
+                                        "key_code": "semicolon",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1780,7 +1770,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "g",
+                                        "key_code": "y",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1799,7 +1789,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "c",
+                                        "key_code": "l",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1818,7 +1808,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "r",
+                                        "key_code": "d",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1837,7 +1827,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "l",
+                                        "key_code": "comma",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1856,7 +1846,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "slash",
+                                        "key_code": "6",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1875,7 +1865,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "equal_sign",
+                                        "key_code": "grave_accent_and_tilde",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1913,7 +1903,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "a",
+                                        "key_code": "s",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1932,7 +1922,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "o",
+                                        "key_code": "n",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1951,7 +1941,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "e",
+                                        "key_code": "t",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1970,7 +1960,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "u",
+                                        "key_code": "h",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -1989,7 +1979,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "i",
+                                        "key_code": "f",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2008,7 +1998,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "d",
+                                        "key_code": "quote",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2027,7 +2017,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "h",
+                                        "key_code": "i",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2046,7 +2036,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "t",
+                                        "key_code": "e",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2065,7 +2055,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "n",
+                                        "key_code": "o",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2084,7 +2074,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "s",
+                                        "key_code": "a",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2122,7 +2112,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "semicolon",
+                                        "key_code": "j",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2141,7 +2131,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "q",
+                                        "key_code": "w",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2160,7 +2150,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "j",
+                                        "key_code": "m",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2179,7 +2169,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "k",
+                                        "key_code": "b",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2217,7 +2207,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "b",
+                                        "key_code": "v",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2236,7 +2226,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "m",
+                                        "key_code": "u",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2255,7 +2245,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "w",
+                                        "key_code": "comma",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2274,7 +2264,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "v",
+                                        "key_code": "period",
                                         "modifiers": [
                                             "right_shift"
                                         ]
@@ -2293,7 +2283,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "z",
+                                        "key_code": "slash",
                                         "modifiers": [
                                             "right_shift"
                                         ]
