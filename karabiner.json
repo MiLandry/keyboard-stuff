@@ -182,7 +182,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "4",
+                                        "key_code": "3",
                                         "modifiers": [
                                             "left_shift"
                                         ]
@@ -251,7 +251,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": ";"
+                                        "key_code": "semicolon"
                                     }
                                 ],
                                 "type": "basic"
@@ -295,7 +295,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": ","
+                                        "key_code": "comma"
                                     }
                                 ],
                                 "type": "basic"
@@ -306,7 +306,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "slash"
+                                        "key_code": "z"
                                     }
                                 ],
                                 "type": "basic"
@@ -317,7 +317,10 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "equal_sign"
+                                        "key_code": "6",
+                                        "modifiers": [
+                                            "left_shift"
+                                        ]
                                     }
                                 ],
                                 "type": "basic"
@@ -394,7 +397,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "d"
+                                        "key_code": "quote"
                                     }
                                 ],
                                 "type": "basic"
@@ -438,7 +441,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "s"
+                                        "key_code": "a"
                                     }
                                 ],
                                 "type": "basic"
