@@ -1385,7 +1385,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "comma",
+                                        "key_code": "q",
                                         "modifiers": [
                                             "left_shift"
                                         ]
