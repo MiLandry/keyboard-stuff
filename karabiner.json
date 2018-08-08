@@ -182,10 +182,7 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "3",
-                                        "modifiers": [
-                                            "left_shift"
-                                        ]
+                                        "key_code": "grave_accent_and_tilde"
                                     }
                                 ],
                                 "type": "basic"
@@ -780,7 +777,10 @@
                                 },
                                 "to": [
                                     {
-                                        "key_code": "grave_accent_and_tilde"
+                                        "key_code": "3",
+                                        "modifiers": [
+                                            "left_shift"
+                                        ]
                                     }
                                 ],
                                 "type": "basic"
