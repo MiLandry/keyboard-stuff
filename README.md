@@ -12,4 +12,5 @@ test.
 
 If good also update repo and commit
 
-`st ~/.config/karabiner/karabiner.json`
+cd into repo and
+`st ./karabiner.json`
