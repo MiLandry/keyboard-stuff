@@ -2,6 +2,8 @@
 
 replace `~/.config/karabiner/karabiner.json` with the thing in here to remap
 
+UPDATE: instead, check this repository out to `./.config/karabiner` and hope it works
+
 ## how to update
 
 `st ~/.config/karabiner/karabiner.json`
