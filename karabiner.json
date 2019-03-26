@@ -2538,7 +2538,7 @@
                 }
             ],
             "name": "landry",
-            "selected": false,
+            "selected": true,
             "simple_modifications": [
                 {
                     "from": {
@@ -4623,7 +4623,7 @@
                 }
             ],
             "name": "landry-non-dev",
-            "selected": true,
+            "selected": false,
             "simple_modifications": [
                 {
                     "from": {

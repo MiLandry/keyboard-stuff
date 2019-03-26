@@ -19,6 +19,8 @@ cd into repo and
 
 ## contents
 karabiner.json : everything lives here
+maestro.bash : the bash script that km will execute. you have to copy this into km, this file may be stale.
+  this will also dump a .current-keyboard file into your home directory
 
 ## how to swap keyboards
 relies on keyboard maestro to run, with a script in your home file directory
