@@ -18,12 +18,7 @@ cd into repo and
 `st ./karabiner.json`
 
 ## contents
-landrykeyboard.json: normal layout
-landrydeveloperkeyboard.json: dev layout layout
-
+karabiner.json : everything lives here
 
 ## how to swap keyboards
-for now do manual, copy pasta
-
-easiest way may be to run a script
-
+relies on keyboard maestro to run, with a script in your home file directory
