@@ -2452,119 +2452,49 @@
                         "key_code": "f1"
                     },
                     "to": [
-                        {
-                            "key_code": "display_brightness_decrement"
+                      {
+                        "sticky_modifier": {
+                            "left_shift": "toggle"
                         }
-                    ]
+                    },
+                      {
+                        "key_code": "h"
+                    },
+                    {
+                      "key_code": "e"
+                  },
+                    {
+                      "key_code": "i"
+                  },
+                    {
+                      "key_code": "m"
+                  },
+                    {
+                      "key_code": "d"
+                  },
+                  {
+                    "sticky_modifier": {
+                        "left_shift": "toggle"
+                    }
+                  },
+                  {
+                    "key_code": "2"
                 },
                 {
-                    "from": {
-                        "key_code": "f2"
-                    },
-                    "to": [
-                        {
-                            "key_code": "display_brightness_increment"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f3"
-                    },
-                    "to": [
-                        {
-                            "key_code": "mission_control"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f4"
-                    },
-                    "to": [
-                        {
-                            "key_code": "launchpad"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f5"
-                    },
-                    "to": [
-                        {
-                            "key_code": "illumination_decrement"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f6"
-                    },
-                    "to": [
-                        {
-                            "key_code": "illumination_increment"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f7"
-                    },
-                    "to": [
-                        {
-                            "key_code": "rewind"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f8"
-                    },
-                    "to": [
-                        {
-                            "key_code": "play_or_pause"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f9"
-                    },
-                    "to": [
-                        {
-                            "key_code": "fastforward"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f10"
-                    },
-                    "to": [
-                        {
-                            "key_code": "mute"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f11"
-                    },
-                    "to": [
-                        {
-                            "key_code": "volume_decrement"
-                        }
-                    ]
-                },
-                {
-                    "from": {
-                        "key_code": "f12"
-                    },
-                    "to": [
-                        {
-                            "key_code": "volume_increment"
-                        }
+                  "key_code": "l"
+              },
+              {
+                "key_code": "l"
+            },
+            {
+              "key_code": "1"
+          },
+            {
+              "key_code": "period"
+          },
+            {
+              "key_code": "o"
+          }
                     ]
                 }
             ],
@@ -2622,7 +2552,13 @@
                     },
                     "to": [
                         {
-                            "consumer_key_code": "display_brightness_decrement"
+                            "key_code": "H"
+                        },
+                        {
+                            "key_code": "e"
+                        },
+                        {
+                            "key_code": "i"
                         }
                     ]
                 },
@@ -2632,7 +2568,7 @@
                     },
                     "to": [
                         {
-                            "consumer_key_code": "display_brightness_increment"
+                            "key_code": "f2"
                         }
                     ]
                 },
@@ -2642,7 +2578,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "mission_control"
+                            "key_code": "f3"
                         }
                     ]
                 },
@@ -2652,7 +2588,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "launchpad"
+                            "apple_vendor_keyboard_key_code": "spotlight"
                         }
                     ]
                 },
@@ -2662,7 +2598,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "illumination_decrement"
+                            "consumer_key_code": "dictation"
                         }
                     ]
                 },
@@ -2672,7 +2608,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "illumination_increment"
+                            "key_code": "f6"
                         }
                     ]
                 },
@@ -2702,7 +2638,7 @@
                     },
                     "to": [
                         {
-                            "consumer_key_code": "fastforward"
+                            "consumer_key_code": "fast_forward"
                         }
                     ]
                 },
@@ -4608,27 +4544,14 @@
             "fn_function_keys": [
                 {
                     "from": {
-                        "key_code": "b"
-                    },
-                    "to": [
-                        {
-                            "key_code": "b"
-                        },
-                        {
-                            "key_code": "a"
-                        },
-                        {
-                            "key_code": "r"
-                        }
-                    ]
-                },
-                {
-                    "from": {
                         "key_code": "f1"
                     },
                     "to": [
                         {
-                            "key_code": "display_brightness_decrement"
+                            "key_code": "4",
+                            "modifiers": [
+                                "caps_lock"
+                            ]
                         }
                     ]
                 },
@@ -4638,7 +4561,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "display_brightness_increment"
+                            "key_code": "f2"
                         }
                     ]
                 },
@@ -4648,7 +4571,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "mission_control"
+                            "key_code": "f3"
                         }
                     ]
                 },
@@ -4658,7 +4581,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "launchpad"
+                            "apple_vendor_keyboard_key_code": "spotlight"
                         }
                     ]
                 },
@@ -4678,7 +4601,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "illumination_increment"
+                            "key_code": "f6"
                         }
                     ]
                 },
@@ -4688,7 +4611,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "rewind"
+                            "consumer_key_code": "rewind"
                         }
                     ]
                 },
@@ -4698,7 +4621,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "play_or_pause"
+                            "consumer_key_code": "play_or_pause"
                         }
                     ]
                 },
@@ -4708,7 +4631,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "fastforward"
+                            "consumer_key_code": "fast_forward"
                         }
                     ]
                 },
@@ -4718,7 +4641,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "mute"
+                            "consumer_key_code": "mute"
                         }
                     ]
                 },
@@ -4728,7 +4651,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "volume_decrement"
+                            "consumer_key_code": "volume_decrement"
                         }
                     ]
                 },
@@ -4738,7 +4661,7 @@
                     },
                     "to": [
                         {
-                            "key_code": "volume_increment"
+                            "consumer_key_code": "volume_increment"
                         }
                     ]
                 }
