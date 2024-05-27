@@ -2295,11 +2295,11 @@
                         ]
                     },
                     {
-                        "description": "Change right_command+hjkl to arrow keys",
+                        "description": "Change right_command+jkl; to arrow keys",
                         "manipulators": [
                             {
                                 "from": {
-                                    "key_code": "h",
+                                    "key_code": "j",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_command"
@@ -2318,7 +2318,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "j",
+                                    "key_code": "k",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_command"
@@ -2337,7 +2337,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "k",
+                                    "key_code": "l",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_command"
@@ -2356,7 +2356,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "l",
+                                    "key_code": ";",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_command"
@@ -4441,7 +4441,7 @@
                             },
                             {
                                 "from": {
-                                    "key_code": "l",
+                                    "key_code": "semicolon",
                                     "modifiers": {
                                         "mandatory": [
                                             "right_command"
